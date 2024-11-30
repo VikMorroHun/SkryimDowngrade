@@ -1,0 +1,19 @@
+# exclude files
+Downgrade_WIP.txt
+
+# exclude directories completely
+DepotDownloader
+
+# exclude directory contents
+#Experts/*
+#Files/*
+#Include/*
+#Scripts/*
+
+# except for directories
+#!Experts/SupportResist
+#!Include/SupportResist
+#!Include/Shared
+# !Files/SupportResist
+# !Scripts/Cayman
+# !Scripts/CaymanDev

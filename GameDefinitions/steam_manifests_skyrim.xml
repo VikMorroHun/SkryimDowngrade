@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://www.nexusmods.com/skyrimspecialedition/articles/6536 -->
+<Depots>
+	<AppID>489830</AppID>
+	<AppName>Skyrim SE/AE</AppName>
+	<Version ID = "1.5.97.0">
+		<Depot>489833</Depot>
+		<Manifest>2289561010626853674</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>8702665189575304780</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>7848722008564294070</Manifest>
+		<Delete>Data/ccBGSSSE001-Fish.bsa</Delete>
+		<Delete>Data/ccBGSSSE001-Fish.esm</Delete>
+		<Delete>Data/ccBGSSSE025-AdvDSGS.bsa</Delete>
+		<Delete>Data/ccBGSSSE025-AdvDSGS.esm</Delete>
+		<Delete>Data/ccBGSSSE037-Curios.bsa</Delete>
+		<Delete>Data/ccBGSSSE037-Curios.esl</Delete>
+		<Delete>Data/ccQDRSSE001-SurvivalMode.bsa</Delete>
+		<Delete>Data/ccQDRSSE001-SurvivalMode.esl</Delete>
+		<Delete>Data/MarketplaceTextures.bsa</Delete>
+		<Delete>Data/_ResourcePack.bsa</Delete>
+		<Delete>Data/_ResourcePack.esl</Delete>
+	</Version>
+	<Version ID = "1.6.318.0">
+		<Depot>489833</Depot>
+		<Manifest>6964426252826681862</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>5260954425794414274</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>1985552842565684891</Manifest>
+		<Delete>Data/MarketplaceTextures.bsa</Delete>
+		<Delete>Data/_ResourcePack.bsa</Delete>
+		<Delete>Data/_ResourcePack.esl</Delete>
+	</Version>
+	<Version ID = "1.6.323.0">
+		<Depot>489833</Depot>
+		<Manifest>2414608533287116506</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>6077137133470860357</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>6913241376784585188</Manifest>
+		<Delete>Data/MarketplaceTextures.bsa</Delete>
+		<Delete>Data/_ResourcePack.bsa</Delete>
+		<Delete>Data/_ResourcePack.esl</Delete>
+	</Version>
+	<Version ID = "1.6.342.0">
+		<Depot>489833</Depot>
+		<Manifest>5357951305619261097</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>2337986449035143556</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>349141704917442044</Manifest>
+		<Delete>Data/MarketplaceTextures.bsa</Delete>
+		<Delete>Data/_ResourcePack.bsa</Delete>
+		<Delete>Data/_ResourcePack.esl</Delete>
+	</Version>
+	<Version ID = "1.6.353.0">
+		<Depot>489833</Depot>
+		<Manifest>4570833277049890269</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>1476684358338706955</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>7089166303853251347</Manifest>
+		<Delete>Data/MarketplaceTextures.bsa</Delete>
+		<Delete>Data/_ResourcePack.bsa</Delete>
+		<Delete>Data/_ResourcePack.esl</Delete>
+	</Version>
+	<Version ID = "1.6.640.0">
+		<Depot>489833</Depot>
+		<Manifest>5291801952219815735</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>2756691988703496654</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>3660787314279169352</Manifest>
+		<Delete>Data/MarketplaceTextures.bsa</Delete>
+		<Delete>Data/_ResourcePack.bsa</Delete>
+		<Delete>Data/_ResourcePack.esl</Delete>
+	</Version>
+	<Version ID = "1.6.1130.0">
+		<Depot>489833</Depot>
+		<Manifest>2442187225363891157</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>4341968404481569190</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>3737743381894105176</Manifest>
+	</Version>
+	<Version ID = "1.6.1170.0">
+		<Depot>489833</Depot>
+		<Manifest>1914580699073641964</Manifest>
+		<Depot>489832</Depot>
+		<Manifest>8042843504692938467</Manifest>
+		<Depot>489831</Depot>
+		<Manifest>8442952117333549665</Manifest>
+	</Version>
+</Depots>

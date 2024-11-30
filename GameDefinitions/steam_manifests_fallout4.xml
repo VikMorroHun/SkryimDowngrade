@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://www.nexusmods.com/skyrimspecialedition/articles/6536 -->
+<!-- https://forums.nexusmods.com/topic/13494967-downgrading-fallout-4-from-1109840-to-1101630-steam/ -->
+<Depots>
+	<AppID>377160</AppID>
+	<AppName>Fallout 4</AppName>
+	<Version ID = "1.10.163.0">
+		<Depot>377161</Depot>
+		<Manifest>7497069378349273908</Manifest>
+		<Depot>377163</Depot>
+		<Manifest>5819088023757897745</Manifest>
+		<Depot>377162</Depot>
+		<Manifest>5847529232406005096</Manifest>
+		<Depot>377164</Depot>
+		<Manifest>2178106366609958945</Manifest>
+		<Depot>435880</Depot>
+		<Manifest>1255562923187931216</Manifest>
+		<Depot>435870</Depot>
+		<Manifest>1691678129192680960</Manifest>
+		<Depot>435871</Depot>
+		<Manifest>5106118861901111234</Manifest>
+		<!-- Far Harbor DLC and Manifest IDs -->
+		<Depot>435881</Depot>
+		<Manifest>1207717296920736193</Manifest>
+	</Version>
+	<Version ID = "1.10.984.0">
+		<Depot>377161</Depot>
+		<Manifest>7332110922360867314</Manifest>
+		<Depot>377163</Depot>
+		<Manifest>8681102885670959037</Manifest>
+		<Depot>377162</Depot>
+		<Manifest>5698952341602575696</Manifest>
+		<Depot>377164</Depot>
+		<Manifest>8492427313392140315</Manifest>
+		<Depot>435880</Depot>
+		<Manifest>366079256218893805</Manifest>
+		<Depot>435870</Depot>
+		<Manifest>1213339795579796878</Manifest>
+		<Depot>435871</Depot>
+		<Manifest>7785009542965564688</Manifest>
+		<!-- Far Harbor DLC and Manifest IDs -->
+		<Depot>435881</Depot>
+		<Manifest>1207717296920736193</Manifest>
+	</Version>
+</Depots>
