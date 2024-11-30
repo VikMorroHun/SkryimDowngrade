@@ -2,7 +2,7 @@ Skyrim SE/AE/Fallout 4 Downgrade Utility
 ========================================
 Revert games to older versions via Steam DepotDownloader.
 
-### Can I run Downgrade Patcher while an account is already connected to Steam?
+### Can I run Skyrim Downgrade Utility while an account is already connected to Steam?
 Any connection to Steam will be closed if they share a LoginID.  You can't specify a different LoginID with this program (although it is possible in DepotDownloader).
 
 ### Why doesn't my password containing special characters work?
